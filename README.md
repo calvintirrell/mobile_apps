@@ -14,13 +14,20 @@ The 2 most expensive apps were both in the 'Education' category: LAMP Words For 
 Both had user ratings of 4.0 but Proloquo2Go had 773 total ratings compared to LAMP's 41 total ratings.
 
 Using total ratings as a means to help estimate total revenue and such would result in the following for these 2 apps:
-name     	                      price	  genre     	user rating	 total rating count	 estimated revenue	 apple app fee  revenue after fee
-Proloquo2Go - Symbol-based AAC	249.99	Education	  4.0	         773	               193,242.27	         28,986.3405	  164,255.9295
-LAMP Words For Life	            299.99	Education	  4.0	         41	                 12,299.59	         1,844.9385	    10,454.6515
+
+| name     	                     | price	 | genre     	| user rating	| total rating count | estimated revenue	| apple app fee | revenue after fee |
+|--------------------------------|---------|------------|-------------|--------------------|--------------------|---------------|-------------------|
+| Proloquo2Go - Symbol-based AAC | 249.99	 | Education	| 4.0	        | 773	               | 193,242.27	        | 28,986.3405	  | 164,255.9295      |
+| LAMP Words For Life	           | 299.99	 | Education	| 4.0	        | 41	               | 12,299.59	        | 1,844.9385	  | 10,454.6515       |
 
 There are a total of 4,056 free apps with an average user rating of 3.53 and median user rating of 4 out of 5.
 There are a total of 3,141 paid apps with an average user rating of 3.9 and median user rating of 4.5 out of 5.
 
 Based on this data set the most popular and profitable game is: Final Fantaxy IX.
+
+| name     	       | price	| genre  | user rating | total rating count | estimated revenue	| apple app fee | revenue after fee |
+|------------------|--------|--------|-------------|--------------------|-------------------|---------------|-------------------|
+| FINAL FANTASY Ⅸ | 20.99	 | Games	| 4.5	        | 1,502	             | 31,526.98	       | 4,729.0470	   | 26,797.9330       |
+
 name     	        price	  genre     	user rating 	total rating count	estimated revenue	 apple app fee  revenue after fee
-FINAL FANTASY Ⅸ	 20.99	 Games       4.5	         1502	               31,526.98	        4,729.0470	   26,797.9330
+	 20.99	 Games       4.5	         1502	               31,526.98	        4,729.0470	   26,797.9330
