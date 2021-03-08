@@ -28,6 +28,3 @@ Based on this data set the most popular and profitable game is: Final Fantaxy IX
 | name     	       | price	| genre  | user rating | total rating count | estimated revenue	| apple app fee | revenue after fee |
 |------------------|--------|--------|-------------|--------------------|-------------------|---------------|-------------------|
 | FINAL FANTASY Ⅸ | 20.99	 | Games	| 4.5	        | 1,502	             | 31,526.98	       | 4,729.0470	   | 26,797.9330       |
-
-name     	        price	  genre     	user rating 	total rating count	estimated revenue	 apple app fee  revenue after fee
-	 20.99	 Games       4.5	         1502	               31,526.98	        4,729.0470	   26,797.9330
